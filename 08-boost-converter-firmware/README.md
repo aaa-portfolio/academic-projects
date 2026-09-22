@@ -15,4 +15,5 @@ TI C2000 (F280049C), Embedded C, KiCAD
 
 ## Files
 - `src/` — C firmware source files
-- `pcb/` — KiCAD schematic/PCB files (if available)
+- `gerbers/` — KiCAD PCB Gerbers
+- `design/` — KiCAD schematics and project report
